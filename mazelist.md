@@ -10,8 +10,6 @@
         <a>6阶迷宫</a><br>
         <a>7阶迷宫</a><br>
         <a>巅峰7阶迷宫</a><br><br><br><br>
-        <a href="mazecomments.md">迷宫好评</a>
-        <a href="zouwei_intro.md">自我介绍</a>
         <footer>编辑成员:走位
         </footer>
     </body>
