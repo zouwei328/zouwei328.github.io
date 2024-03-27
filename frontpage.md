@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <body>
-  <h1 style="background-color: LightGray">走位的迷宫</h1><br>
+  <a style="background-color: LightGray">走位的迷宫</a><br>
   <ul>
     <li><a href="mazecomments.md">迷宫好评</a></li>
     <li><a href="zouwei_intro.md">自我介绍</a></li>
