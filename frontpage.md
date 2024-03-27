@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <html>
-<body style="background-color: LightGray>
+<body style="background-color: Gray;">
   <a>走位的迷宫</a><br>
   <ul>
     <li><a href="mazecomments.md">迷宫好评</a></li>
